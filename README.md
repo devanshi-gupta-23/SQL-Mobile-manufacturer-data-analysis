@@ -17,8 +17,8 @@ The 6 Tables are:
 6) FACT_TRANSACTIONS
 
 # Summary:
-we were given 10 tasks to perform.
-To perform these tasks i have written SQL Query.
+We were given 10 tasks to perform.
+To perform these tasks I have written several SQL Queries.
  
-For example task 1 is List all the states in which we have customers who have bought cellphones from 2005 till today.
-so we have to write a query to extract this data from a database.
+For example: Task 1 is "List all the states in which we have customers who have bought cellphones from 2005 till today".<br/>
+So, we have to write a query to extract this data from a database.

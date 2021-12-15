@@ -7,7 +7,7 @@ cellphones sales and transactions.
 MS SQL Server
 
 # DataSet:
-Dataset is provided in a sql file. We just have to Excecute it and all the 6 tables will be created inside the database db_SQLCaseStudies.
+Dataset is provided in a sql file. We just have to Excecute it and all the 6 tables will be created inside the database db_SQLCaseStudies.<br/>
 The 6 Tables are:
 1) DIM_DATE
 2) DIM_MANUFACTURER
